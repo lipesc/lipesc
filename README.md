@@ -1,4 +1,4 @@
-<h5 align="center">Olá! Sou apaixonado por tecnologia, estudando e compreendendo aos poucos os vários aspectos do desenvolvimento de software.</h3>
+<h5 align="center">Olá! Sou apaixonado por tecnologia, estudando e compreendendo aos poucos os vários aspectos do desenvolvimento de software.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipesc&label=Profile%20views&color=0e75b6&style=flat" alt="lipesc" /> </p>
 
