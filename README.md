@@ -1,6 +1,5 @@
 <h5 align="center">Olá! Sou apaixonado por tecnologia, estudando e compreendendo aos poucos os vários aspectos do desenvolvimento de software.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lipesc&label=Profile%20views&color=0e75b6&style=flat" alt="lipesc" /> </p>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipesam2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipesam2022/" height="30" width="40" /></a>
