@@ -1,4 +1,4 @@
-<h5 align="center">Olá! Sou apaixonado por tecnologia, estudando e compreendendo aos poucos os vários aspectos do desenvolvimento de software.</h5>
+<h5 align="center">Estudando e compreendendo aos poucos os vários aspectos do desenvolvimento de software.</h5>
 
 
 <p align="left">
