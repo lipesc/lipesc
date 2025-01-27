@@ -1,9 +1,8 @@
 <h5 align="center">Desenvolvedor.</h5>
 
-![lipesc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipesc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipesc&theme=default&show_icons=true&hide_border=true&layout=compact" alt="lipesc's GitHub Stats" />
 
-
-![lipesc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lipesc&theme=vue-dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=lipesc&theme=default&hide_border=true" alt="lipesc's GitHub Stats" />
 <p align="left">
 <a href="https://www.linkedin.com/in/felipesam2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipesam2022/" height="30" width="40" /></a>
 </p>
