@@ -1,5 +1,4 @@
 
-<h5> Meu objetivo é ser um bom programador, aprendendo constantemente e me atualizando para alcançar esse objetivo</h5>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipesc&theme=default&show_icons=true&hide_border=true&layout=compact" alt="lipesc's GitHub Stats" />
 
 <!--<img src="https://streak-stats.demolab.com?user=lipesc&theme=default&hide_border=true" alt="lipesc's GitHub Stats" />
